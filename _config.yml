@@ -16,7 +16,7 @@
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : Správa siete
+title      : Správa počitačovej siete
 email      : la-sd@upjs.sk #this is also the email contact forms will go to
 description: "Website about internet."
 author     : Alex Gajdos

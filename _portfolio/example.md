@@ -1,14 +1,14 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: Ako na to.
+  subtitle: plagát
+  thumbnail: "../img/posters/pripojenie.png"
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: Pripojenie na Internet
+subtitle: Ako sa prihlásiť do siete Eduroam? Ako sa pripojiť do siete ŠDaJ?
+image: "../img/posters/pripojenie.png" #main image, can be a link or a file in assets/img/portfolio
+alt: plagat na pripojenie
 
 ---
 Use this area to describe your project. **Markdown** supported.
