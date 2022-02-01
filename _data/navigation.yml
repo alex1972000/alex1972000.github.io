@@ -15,12 +15,16 @@ sk: &DEFAULT_SK
       section: services
     - title: "Pripojenie"
       section: portfolio
-    - title: "About"
+    - title: "O nás"
       section: about
     - title: "Novinky"
       section: timeline
     - title: "Kontakt"
       section: contact
+
+sk-EU:
+  <<: *DEFAULT_SK
+
 # English
 # -------
 en: &DEFAULT_EN
