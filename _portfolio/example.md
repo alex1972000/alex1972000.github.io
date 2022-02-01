@@ -13,3 +13,4 @@ alt: plagát na pripojenie
 ---
 V prípade problémov nás kontaktuj.
 
+{:.list-inline}
