@@ -17,11 +17,9 @@ sk: &DEFAULT_SK
       section: portfolio
     - title: "About"
       section: about
-    - title: "Timeline"
+    - title: "Novinky"
       section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
+    - title: "Kontakt"
       section: contact
 # English
 # -------
@@ -31,13 +29,11 @@ en: &DEFAULT_EN
       section: servicios
     - title: "Connection"
       section: portafolio
-    - title: "Sobre Nosotros"
+    - title: "About us"
       section: nosotros
-    - title: "Cronología"
+    - title: "News"
       section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
+    - title: "Contact"
       section: contacto
 es-ES:
   <<: *DEFAULT_EN
