@@ -23,16 +23,7 @@ sk: &DEFAULT_SK
       section: team
     - title: "Contact"
       section: contact
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
-
-# Spanish
+# English
 # -------
 en: &DEFAULT_EN
   nav:
@@ -51,4 +42,12 @@ en: &DEFAULT_EN
 es-ES:
   <<: *DEFAULT_EN
 es-CO:
+  <<: *DEFAULT_EN
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
   <<: *DEFAULT_EN
