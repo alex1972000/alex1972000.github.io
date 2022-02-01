@@ -11,8 +11,8 @@
 # -----------------
 sk: &DEFAULT_SK
   header:
-    title: Študentské domovy a jedálne UPJŠ v Košiciach
-    text: Správa počítačovej siete
+    title: "Študentské domovy a jedálne UPJŠ v Košiciach"
+    text: "Správa počítačovej siete"
     button: Zistiť viac
     buttonlink: "#services"
 
@@ -170,8 +170,8 @@ en-AU:
 # -------
 en: &DEFAULT_EN
   header:
-    title: Študentské domovy a jedálne UPJŠ v Košiciach
-    text: Správa počítačovej siete
+    title: "Študentské domovy a jedálne UPJŠ v Košiciach"
+    text: "Správa počítačovej siete"
     button: Find Out More
     buttonlink: "#servicios"
 
