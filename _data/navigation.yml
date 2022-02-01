@@ -9,11 +9,11 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
+sk: &DEFAULT_SK
   nav:
-    - title: "Services"
+    - title: "Služby"
       section: services
-    - title: "Portfolio"
+    - title: "Pripojenie"
       section: portfolio
     - title: "About"
       section: about
@@ -23,8 +23,6 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -36,11 +34,11 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
+en: &DEFAULT_EN
   nav:
-    - title: "Servicios"
+    - title: "Service Times"
       section: servicios
-    - title: "Portafolio"
+    - title: "Connection"
       section: portafolio
     - title: "Sobre Nosotros"
       section: nosotros
@@ -50,9 +48,7 @@ es: &DEFAULT_ES
       section: equipo
     - title: "Contáctenos"
       section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN
 es-CO:
-  <<: *DEFAULT_ES
+  <<: *DEFAULT_EN

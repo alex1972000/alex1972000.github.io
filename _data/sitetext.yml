@@ -9,16 +9,16 @@
 
 # English (default)
 # -----------------
-en: &DEFAULT_EN
+sk: &DEFAULT_SK
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Študentské domovy a jedálne UPJŠ v Košiciach
+    text: Správa počítačovej siete
+    button: Zistiť viac
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Služby"
+    text: "Kedy a kde nás nájdeš?"
     section: services
     list:
       - title: "E-Commerce"
@@ -32,10 +32,10 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Pripojenie na Internet"
+    text: "Ako sa prihlásiť do siete Eduroam? Ako sa pripojiť do siete ŠDaJ?"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Zatvoriť"
 
   timeline:
     title: "Timeline"
@@ -168,16 +168,16 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
+en: &DEFAULT_EN
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
+    title: Študentské domovy a jedálne UPJŠ v Košiciach
+    text: Správa počítačovej siete
+    button: Find Out More
     buttonlink: "#servicios"
 
   services:
-    title: "Servicios"
-    text: "Lorem ipsum"
+    title: "Service Time"
+    text: "When and where you can find us?"
     section: servicios
     list:
       - title: "Comercio Electrónico"
@@ -191,10 +191,10 @@ es: &DEFAULT_ES
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Connection into Internet"
+    text: "How to create credentials for Eduroam? How to connect to the ŠDaJ network?"
     section: portafolio
-    closebutton: "Cerrar Proyecto"
+    closebutton: "Close"
 
   timeline:
     title: "Cronología"
