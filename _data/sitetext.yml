@@ -72,10 +72,10 @@ sk: &DEFAULT_SK
     title: "FAQ"
     text: "Často kladené otázky"
     question:
-    - title: "Ako môžem kontaktovať správcov počítačovej siete?"
-      desc:  "prídete osobne v čase služieb (rozpis nájdete na našej webovej stránke) alebo nám zavoláte na číslo +42155234 1695 (len v čase služieb) alebo nám napíšete e-mail na la-sd@upjs.sk"
-    - title: "Bývame na trojposteľovej izbe, ale máme k dispozícii len dve internetové zásuvky ?"
-      desc: "Trojposteľové izby na internátoch ŠDaJ (okrem bloku A) majú len dve zásuvky. Je potrebné si zabezpečiť sieťový prepínač (switch). Ceny najlacnejších switchov sa pohybujú okolo 7-10 eur. Takéto zariadenie úplne postačuje a kúpite ho v akomkoľvek obchode s výpočtovou technikou. Získate k dispozícii najmenej 4 ďalšie zástrčky. Nezabudnite si kúpiť ďalší internetový kábel, cez ktorý pripojíte switch do internetovej zásuvky."
+       - title: "Ako môžem kontaktovať správcov počítačovej siete?"
+         desc:  "prídete osobne v čase služieb (rozpis nájdete na našej webovej stránke) alebo nám zavoláte na číslo +42155234 1695 (len v čase služieb) alebo nám napíšete e-mail na la-sd@upjs.sk"
+       - title: "Bývame na trojposteľovej izbe, ale máme k dispozícii len dve internetové zásuvky ?"
+         desc: "Trojposteľové izby na internátoch ŠDaJ (okrem bloku A) majú len dve zásuvky. Je potrebné si zabezpečiť sieťový prepínač (switch). Ceny najlacnejších switchov sa pohybujú okolo 7-10 eur. Takéto zariadenie úplne postačuje a kúpite ho v akomkoľvek obchode s výpočtovou technikou. Získate k dispozícii najmenej 4 ďalšie zástrčky. Nezabudnite si kúpiť ďalší internetový kábel, cez ktorý pripojíte switch do internetovej zásuvky."
     section: about
     end: "NEDAVAM TO."
 
