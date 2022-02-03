@@ -24,10 +24,10 @@ sk: &DEFAULT_SK
       - title: "[Medická 6](https://www.google.com/maps/place/Medick%C3%A1+489%2F6,+040+11+Ko%C5%A1ice/@48.719053,21.2404537,3a,75y,1.42h,93t/data=!3m6!1e1!3m4!1siN33pNc0-I-e0isK3Nh-hw!2e0!7i13312!8i6656!4m5!3m4!1s0x473ee04242506d8b:0x86bf1ab1e5a4bc60!8m2!3d48.7193548!4d21.240438)"
         desc: "Na Medickej 6 v miestnosti čislo 40A nás nájdete v čase <b> od 20:00 do 21:00 každy pondelok, utorok, stredu a štvrtok.</b>"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "[Popradská 66](shorturl.at/dBGW2)"
+      - title: "[Popradská 66](https://www.google.com/maps/uv?pb=!1s0x473ee047d1039453%3A0x31dc8dc4e8e5a60c!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMf1BiV54TTHXziuVl9yu7BFAWHH-opUghYEYD%3Dw284-h160-k-no!5zxaB0dWRlbnRza8O9IGRvbW92IFVQSsWgIFBvcHJhZHNrw6EgNjYgLSBIxL5hZGHFpSBHb29nbG9t!15sCgIgAQ&imagekey=!1e10!2sAF1QipMMf1BiV54TTHXziuVl9yu7BFAWHH-opUghYEYD&hl=sk&sa=X&ved=2ahUKEwjzgJe0nOT1AhUONuwKHTWFCgIQoip6BAgsEAM)"
         desc: "Na Popradskej 66 nás nájdete v čase <b> od 19:00 do 19:30 každý pondelok a stredu.</b>"
         icon: fas fa-laptop
-      - title: "[Popradská 76](shorturl.at/bwzDM)"
+      - title: "[Popradská 76](https://www.google.com/maps/place/Popradsk%C3%A1+255%2F76,+040+11+Ko%C5%A1ice/@48.7140435,21.2266686,3a,75y,261.36h,91.23t/data=!3m6!1e1!3m4!1s7NcUlatRDf5USJAL2AbN1w!2e0!7i13312!8i6656!4m5!3m4!1s0x473ee0386054b0f5:0xbd7cfb8a384d2ba4!8m2!3d48.7139267!4d21.226197)"
         desc: "Na Popradskej 76 v <b>počitačovej miestnosti</b> nás nájdete v čase <b> od 19:00 do 19:30 každý utorok a štvrtok.</b>"
         icon: fab fa-markdown
 
@@ -139,13 +139,13 @@ en: &DEFAULT_EN
     text: "When and where you can find us?"
     section: servicios
     list:
-      - title: "[Medická 6](shorturl.at/dlCU6)"
+      - title: "[Medická 6](https://www.google.com/maps/place/Medick%C3%A1+489%2F6,+040+11+Ko%C5%A1ice/@48.719053,21.2404537,3a,75y,1.42h,93t/data=!3m6!1e1!3m4!1siN33pNc0-I-e0isK3Nh-hw!2e0!7i13312!8i6656!4m5!3m4!1s0x473ee04242506d8b:0x86bf1ab1e5a4bc60!8m2!3d48.7193548!4d21.240438)"
         desc: "You can find us on Medicka 6 in room 40A every Monday, Tuesday, Wednesday and Thursday from 8 p.m. to 9 p.m. o'clock."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "[Popradská 66](shorturl.at/dBGW2)"
+      - title: "[Popradská 66](https://www.google.com/maps/uv?pb=!1s0x473ee047d1039453%3A0x31dc8dc4e8e5a60c!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMf1BiV54TTHXziuVl9yu7BFAWHH-opUghYEYD%3Dw284-h160-k-no!5zxaB0dWRlbnRza8O9IGRvbW92IFVQSsWgIFBvcHJhZHNrw6EgNjYgLSBIxL5hZGHFpSBHb29nbG9t!15sCgIgAQ&imagekey=!1e10!2sAF1QipMMf1BiV54TTHXziuVl9yu7BFAWHH-opUghYEYD&hl=sk&sa=X&ved=2ahUKEwjzgJe0nOT1AhUONuwKHTWFCgIQoip6BAgsEAM)"
         desc: "You can find us on Popradská 66 every Monday and Wednesday from 7 p.m. to 7:30 p.m. o'clock."
         icon: fas fa-laptop
-      - title: "[Popradská 76](shorturl.at/bwzDM)"
+      - title: "[Popradská 76](https://www.google.com/maps/place/Popradsk%C3%A1+255%2F76,+040+11+Ko%C5%A1ice/@48.7140435,21.2266686,3a,75y,261.36h,91.23t/data=!3m6!1e1!3m4!1s7NcUlatRDf5USJAL2AbN1w!2e0!7i13312!8i6656!4m5!3m4!1s0x473ee0386054b0f5:0xbd7cfb8a384d2ba4!8m2!3d48.7139267!4d21.226197)"
         desc: "You can find us on Popradská 77 in computer room every Tuesday and Thursday from 7 p.m. to 7:30 p.m. o'clock."
         icon: fab fa-markdown
 
