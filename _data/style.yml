@@ -4,7 +4,11 @@
 #black: "#000"
 
 #Image Customization
+<<<<<<< HEAD
 header-image: "../img/pokus2.png"
+=======
+header-image: "../img/pokus2.png"
+>>>>>>> c572e509ee5f4060520e0f038d654e7f12c33fa0
 contact-image: "../img/contact.png"
 #Font Awesome icon for portfolio grid when an item is hovered over
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
