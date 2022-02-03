@@ -21,14 +21,14 @@ sk: &DEFAULT_SK
     text: "Kedy a kde nás nájdeš?"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Medická 6](shorturl.at/dlCU6)"
+        desc: "Na Medickej 6 v miestnosti čislo 40A nás nájdete v čase <b> od 20:00 do 21:00 každy pondelok, utorok, stredu a štvrtok.</b>"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Popradská 66](shorturl.at/dBGW2)"
+        desc: "Na Popradskej 66 nás nájdete v čase <b> od 19:00 do 19:30 každý pondelok a stredu.</b>"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[Popradská 76](shorturl.at/bwzDM)"
+        desc: "Na Popradskej 76 v <b>počitačovej miestnosti</b> nás nájdete v čase <b> od 19:00 do 19:30 každý utorok a štvrtok.</b>"
         icon: fab fa-markdown
 
   portfolio:
@@ -69,9 +69,11 @@ sk: &DEFAULT_SK
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "FAQ"
+    text: "Často kladené otázky"
+    body: 
+    "<h1> {{ Ako môžem kontaktovať správcov počítačovej siete ? }} </h1>
+    <p> {{ Máte 4 možnosti: }} </p>"
     section: about
 
   clients:
@@ -105,7 +107,7 @@ sk: &DEFAULT_SK
     message: "Text*"
     message-validation: "Zadajte text správy prosím."
     subject: "Contact Form Submission"
-    submit: "Poslať email."
+    submit: "Poslať email"
 
   footer:
     legal: "Privacy Policy"
@@ -139,14 +141,14 @@ en: &DEFAULT_EN
     text: "When and where you can find us?"
     section: servicios
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Medická 6](shorturl.at/dlCU6)"
+        desc: "You can find us on Medicka 6 in room 40A every Monday, Tuesday, Wednesday and Thursday from 8 p.m. to 9 p.m. o'clock."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Popradská 66](shorturl.at/dBGW2)"
+        desc: "You can find us on Popradská 66 every Monday and Wednesday from 7 p.m. to 7:30 p.m. o'clock."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
+      - title: "[Popradská 76](shorturl.at/bwzDM)"
+        desc: "You can find us on Popradská 77 in computer room every Tuesday and Thursday from 7 p.m. to 7:30 p.m. o'clock."
         icon: fab fa-markdown
 
   portfolio:
@@ -187,8 +189,8 @@ en: &DEFAULT_EN
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
-    title: "Sobre nosotros"
-    text: "nuestra historia"
+    title: "FAQ"
+    text: "Frequently Asked Questions"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: nosotros
 

@@ -15,7 +15,7 @@ sk: &DEFAULT_SK
       section: services
     - title: "Pripojenie"
       section: portfolio
-    - title: "O nás"
+    - title: "FAQ"
       section: about
     - title: "Novinky"
       section: timeline
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
       section: servicios
     - title: "Connection"
       section: portafolio
-    - title: "About us"
+    - title: "FAQ"
       section: nosotros
     - title: "News"
       section: cronologia
