@@ -72,12 +72,9 @@ sk: &DEFAULT_SK
     title: "FAQ"
     text: "Často kladené otázky"
     body:
-    title: "Ako môžem kontaktovať správcov počítačovej siete?"
-    text: "Máte 3 možnosti:"
-    test:
-        way1: "prídete osobne v čase služieb (rozpis nájdete na našej webovej stránke)"
-        way2: "zavoláte na číslo +42155234 1695 (len v čase služieb)"
-        way3: "napíšete e-mail na la-sd@upjs.sk"
+    - title: "Ako môžem kontaktovať správcov počítačovej siete?"
+      text: "Máte 3 možnosti:"
+      desc:  "prídete osobne v čase služieb (rozpis nájdete na našej webovej stránke) alebo nám zavoláte na číslo +42155234 1695 (len v čase služieb) alebo nám napíšete e-mail na la-sd@upjs.sk"
     section: about
 
   clients:
