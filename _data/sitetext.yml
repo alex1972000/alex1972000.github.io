@@ -71,9 +71,7 @@ sk: &DEFAULT_SK
   about:
     title: "FAQ"
     text: "Často kladené otázky"
-    body: 
-    "<h1> {{ Ako môžem kontaktovať správcov počítačovej siete ? }} </h1>
-    <p> {{ Máte 4 možnosti: }} </p>"
+    body: "Ako môžem kontaktovať správcov počítačovej siete?  Máte 4 možnosti:"
     section: about
 
   clients:
