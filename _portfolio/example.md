@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Ako na to.
   subtitle: plagát
-  thumbnail: "../img/posters/pripojenie.png"
+  thumbnail: ../img/posters/pripojenie.png
   
 #what displays when the item is clicked:
 title: Pripojenie na Internet
