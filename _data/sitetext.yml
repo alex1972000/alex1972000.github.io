@@ -32,7 +32,7 @@ sk: &DEFAULT_SK
         icon: fas fa-home
       - title: "[COVID](https://korona.gov.sk/)"
         desc: "<b>Kvôli súčasnej situácii sú služby na Medická 6, Popradská 66 a Popradská 76 zrušene a fungujeme v on-line režime v prípade problémov nás kontaktuj na e-maili la-sd@upjs.sk</b>"
-        icon: fas fa-home
+        icon: fas fa-virus
 
   portfolio:
     title: "Pripojenie na Internet"
@@ -148,7 +148,7 @@ en: &DEFAULT_EN
         icon: fas fa-home
       - title: "COVID"
         desc: "<b>Because of situation about Covid right now we are working only online. If you have any problem you can contact us on la-sd@upjs.sk</b>"
-        icon: fas fa-viruses  
+        icon: fas fa-virus
 
   portfolio:
     title: "Connection into Internet"
