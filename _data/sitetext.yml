@@ -30,9 +30,9 @@ sk: &DEFAULT_SK
       - title: "[Popradská 76](https://www.google.com/maps/place/Popradsk%C3%A1+255%2F76,+040+11+Ko%C5%A1ice/@48.7140435,21.2266686,3a,75y,261.36h,91.23t/data=!3m6!1e1!3m4!1s7NcUlatRDf5USJAL2AbN1w!2e0!7i13312!8i6656!4m5!3m4!1s0x473ee0386054b0f5:0xbd7cfb8a384d2ba4!8m2!3d48.7139267!4d21.226197)"
         desc: "Na Popradskej 76 v <b>počitačovej miestnosti</b> nás nájdete v čase <b> od 19:00 do 19:30 každý utorok a štvrtok.</b>"
         icon: fas fa-home
-      - title: "COVID"
+      - title: "[COVID](https://korona.gov.sk/)"
         desc: "<b>Kvôli súčasnej situácii sú služby na Medická 6, Popradská 66 a Popradská 76 zrušene a fungujeme v on-line režime v prípade problémov nás kontaktuj na e-maili la-sd@upjs.sk</b>"
-        icon: fas fa-virus  
+        icon: fas fa-viruses 
 
   portfolio:
     title: "Pripojenie na Internet"
@@ -148,7 +148,7 @@ en: &DEFAULT_EN
         icon: fas fa-home
       - title: "COVID"
         desc: "<b>Because of situation about Covid right now we are working only online. If you have any problem you can contact us on la-sd@upjs.sk</b>"
-        icon: fas fa-virus  
+        icon: fas fa-viruses  
 
   portfolio:
     title: "Connection into Internet"
