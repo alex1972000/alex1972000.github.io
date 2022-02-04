@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Ako na to.
   subtitle: plagát
-  thumbnail: ../img/portfolio/pripojenie.png
+  thumbnail: "../img/portfolio/pripojenie.png"
   
 #what displays when the item is clicked:
 title: Pripojenie na Internet
 subtitle: Ako sa prihlásiť do siete Eduroam? Ako sa pripojiť do siete ŠDaJ?
-image: ../img/portfolio/pripojenie.png #main image, can be a link or a file in assets/img/portfolio
+image: "../img/portfolio/pripojenie.png" #main image, can be a link or a file in assets/img/portfolio
 alt: plagát na pripojenie
 
 ---
