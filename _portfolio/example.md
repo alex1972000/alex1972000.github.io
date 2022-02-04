@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Ako na to.
   subtitle: plagát
-  thumbnail: ../img/posters/pripojenie.png
+  thumbnail: https://www.facebook.com/photo/?fbid=344089814080090&set=pcb.344090290746709
   
 #what displays when the item is clicked:
 title: Pripojenie na Internet
