@@ -27,7 +27,6 @@ sk: &DEFAULT_SK
       - title: "[Popradská 66](https://www.google.com/maps/uv?pb=!1s0x473ee047d1039453%3A0x31dc8dc4e8e5a60c!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMf1BiV54TTHXziuVl9yu7BFAWHH-opUghYEYD%3Dw284-h160-k-no!5zxaB0dWRlbnRza8O9IGRvbW92IFVQSsWgIFBvcHJhZHNrw6EgNjYgLSBIxL5hZGHFpSBHb29nbG9t!15sCgIgAQ&imagekey=!1e10!2sAF1QipMMf1BiV54TTHXziuVl9yu7BFAWHH-opUghYEYD&hl=sk&sa=X&ved=2ahUKEwjzgJe0nOT1AhUONuwKHTWFCgIQoip6BAgsEAM)"
         desc: "Na Popradskej 66 nás nájdete v čase <b> od 19:00 do 19:30 každý pondelok a stredu.</b>"
         icon: fas fa-home
-    list:    
       - title: "[Popradská 76](https://www.google.com/maps/place/Popradsk%C3%A1+255%2F76,+040+11+Ko%C5%A1ice/@48.7140435,21.2266686,3a,75y,261.36h,91.23t/data=!3m6!1e1!3m4!1s7NcUlatRDf5USJAL2AbN1w!2e0!7i13312!8i6656!4m5!3m4!1s0x473ee0386054b0f5:0xbd7cfb8a384d2ba4!8m2!3d48.7139267!4d21.226197)"
         desc: "Na Popradskej 76 v <b>počitačovej miestnosti</b> nás nájdete v čase <b> od 19:00 do 19:30 každý utorok a štvrtok.</b>"
         icon: fas fa-home
