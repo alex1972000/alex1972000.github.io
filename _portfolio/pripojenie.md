@@ -1,6 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Ako na to.
+  lang : sk
+  lang-ref: photo-how-to-connect
   subtitle: plagát
   thumbnail: assets\img\portfolio\pripojenie.PNG
   

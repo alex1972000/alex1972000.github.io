@@ -26,7 +26,6 @@ author     : Alex Gajdos
 
  # See available languages in _data/sitetext.yml
 
- languages: ["sk", "en"]
 
 analytics:
   google: #Google Analytics tracking code here
