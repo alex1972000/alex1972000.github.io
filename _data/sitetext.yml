@@ -41,8 +41,8 @@ sk: &DEFAULT_SK
     closebutton: "Zatvoriť"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Novinky"
+    text: "Novinky, ktoré sme pre vás upravili alebo nás ešte čakajú"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -155,8 +155,8 @@ en: &DEFAULT_EN
     closebutton: "Close"
 
   timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
+    title: "News"
+    text: "Things which we changed or we wanna change in close future"
     section: cronologia
     # left is the default
     #start_align: "left"
