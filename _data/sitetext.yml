@@ -115,6 +115,8 @@ sk: &DEFAULT_SK
     social:
       - url: https://www.facebook.com/sd.upjs/?show_switched_toast=1&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0
         icon: "fab fa-facebook-f"
+      - url: https://upjs.ladesk.com/826445-Spr%C3%A1va-po%C4%8D%C3%ADta%C4%8Dovej-siete---kontaktn%C3%BD-formul%C3%A1r?fbclid=IwAR3QMYGw3BF9IzxhZ0Nt4iecXowmLVzed3KH4R6iYyeZl4O4pG98WWgYZUs
+        icon: "fas fa-envelope"
 sk-EU:
   <<: *DEFAULT_SK
 
@@ -227,6 +229,8 @@ en: &DEFAULT_EN
     social:
       - url: https://www.facebook.com/sd.upjs/?show_switched_toast=1&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_transition=0&show_community_review_changes=0
         icon: "fab fa-facebook-f"
+      - url: https://upjs.ladesk.com/826445-Spr%C3%A1va-po%C4%8D%C3%ADta%C4%8Dovej-siete---kontaktn%C3%BD-formul%C3%A1r?fbclid=IwAR3QMYGw3BF9IzxhZ0Nt4iecXowmLVzed3KH4R6iYyeZl4O4pG98WWgYZUs
+        icon: "fas fa-envelope"
 es-ES:
   <<: *DEFAULT_EN
 es-CO:
