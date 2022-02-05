@@ -11,7 +11,7 @@ image: assets\img\portfolio\connection.PNG #main image, can be a link or a file 
 alt: photo about how to connect to our network system.
 
 ---
-V prípade problémov nás kontaktuj.
+If you have any problem just contact us.
 
 
 {:.list-inline}
