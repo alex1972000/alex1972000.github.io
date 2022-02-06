@@ -25,12 +25,7 @@ author     : Alex Gajdos
   # height: 60 #height in px, defaults to 52px
 
  # See available languages in _data/sitetext.yml
-languages: ["sk-EU", "en-US"]
-exclude_from_localizations: ["assets", "CNAME"]
-defaultLang: en
-languageNames:
-  en: English
-  sk: Slovak
+locale: "sk-EU"
 
 analytics:
   google: #Google Analytics tracking code here
