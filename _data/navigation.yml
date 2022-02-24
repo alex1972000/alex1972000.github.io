@@ -21,7 +21,8 @@ sk: &DEFAULT_SK
       section: timeline
     - title: "Kontakt"
       section: contact
-
+    - title: "ENGLISH"
+      url: /en
 sk-EU:
   <<: *DEFAULT_SK
 
@@ -39,6 +40,8 @@ en: &DEFAULT_EN
       section: cronologia
     - title: "Contact"
       section: contacto
+    - title: "SLOVENČINA"
+      url: /
 es-ES:
   <<: *DEFAULT_EN
 es-CO:
