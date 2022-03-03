@@ -1,3 +1,4 @@
+page.locale
 ---
 caption: #what displays in the portfolio grid:
   title: How to do it.
