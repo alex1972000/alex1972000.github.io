@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Ako na to.
   subtitle: plagát
-  locale: sk
+  lang: sk
   thumbnail: assets\img\portfolio\pripojenie.PNG
   
 #what displays when the item is clicked:
