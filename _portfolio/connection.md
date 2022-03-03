@@ -2,7 +2,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: How to do it.
-  [page.locale]
+  locale: en
   subtitle: photo
   thumbnail: assets\img\portfolio\connection.PNG
   
