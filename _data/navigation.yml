@@ -39,7 +39,7 @@ en: &DEFAULT_EN
     - title: "News"
       section: cronologia
     - title: "Contact"
-      section: contact
+      section: contacto
     - title: "SLOVENČINA"
       url: /
 es-ES:

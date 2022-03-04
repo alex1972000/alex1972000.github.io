@@ -161,8 +161,8 @@ sk-EU:
 # -------
 en: &DEFAULT_EN
   header:
-    title: "Študentské domovy a jedálne UPJŠ v Košiciach"
-    text: "Správa počítačovej siete"
+    title: "Students Hostels and Canteens of UPJS in Kosice"
+    text: "Computer network administration"
     button: Find Out More
     buttonlink: "#servicios"
 
@@ -248,7 +248,7 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Us"
     text: "or come to us at service time."
-    section: contact
+    section: contacto
 
 
   footer:
