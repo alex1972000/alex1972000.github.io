@@ -75,16 +75,16 @@ sk: &DEFAULT_SK
     title: "FAQ"
     text: "Často kladené otázky"
     body: "<b>Ako môžem kontaktovať správcov počítačovej siete?</b>
-<br>Máte 4 možnosti:<br> prídete osobne v čase služieb (rozpis nájdete na našej webovej stránke)zavoláte na číslo +42155234 1695 (len v čase služieb na Medickej 6) napíšete e-mail na la-sd (a) upjs.sk formulár v spodnej časti stránky <br><br> 
+<br>Máte 4 možnosti:<br> prídete osobne v čase služieb (rozpis nájdete na našej webovej stránke)zavoláte na číslo +42155234 1695 (len v čase služieb na Medickej 6) napíšete e-mail na la-sd@upjs.sk formulár v spodnej časti stránky <br><br> 
           <b>Bývame na trojposteľovej izbe, ale máme k dispozícii len dve internetové zásuvky ?</b> 
 <br><br> Žiaľ, nie všetky časti internátov prešli rekonštrukciou a nemajú na trojposteľových izbách 3 zásuvky. V takomto prípade je potrebné si zabezpečiť sieťový prepínač (switch). Ceny najlacnejších switchov sa pohybujú okolo 7-10 eur. Takéto zariadenie úplne postačuje a kúpite ho v akomkoľvek obchode s výpočtovou technikou. Získate k dispozícii najmenej 4 ďalšie zástrčky. Nezabudnite si kúpiť ďalší internetový kábel, cez ktorý pripojíte switch do internetovej zásuvky. Neváhajte nás kontaktovať, radi Vám pomôžeme pri výbere vhodného modelu.<br><br>
           <b>Čo mám robiť v prípade výmeny notebooku ?</b>
 <br><br>V prípade pripojenia do WiFi siete eduroam, stačí ak sa prihlásite do siete s Vašimi
- prihlasovacími údajmi.V prípade káblovej siete sa opätovne registrujte podľa návodu na stránke v časti pripojenie a následne nás kontaktujte buď pomocou formulára v spodnej časti stránky alebo pomocou emailu la-sd (a) upjs.sk a dajte nám vedieť o novej registrácií aby sme zmazali starú.<br><br>
+ prihlasovacími údajmi.V prípade káblovej siete sa opätovne registrujte podľa návodu na stránke v časti pripojenie a následne nás kontaktujte buď pomocou formulára v spodnej časti stránky alebo pomocou emailu la-sd@upjs.sk a dajte nám vedieť o novej registrácií aby sme zmazali starú.<br><br>
           <b>Čo ak do môjho notebooku nemôžem pripojiť kábel ?</b>
 <br><br>Ak notebook nemá ethernetový port alebo je tento port poškodený budete potrebovať externú USB sieťovú kartu. Ceny sa pohybujú od 10€. Neváhajte nás kontaktovať, radi Vám pomôžeme pri výbere vhodného modelu. Alebo si vystačíte s pripojením do WiFi siete eduroam.<br><br>
           <b>Čo mám robiť ak nám na izbe nefunguje internetová zásuvka ?</b>
-<br><br>Kontaktujte nás prosím buď pomocou formulára v spodnej časti stránky alebo pomocou emailu la-sd (a) upjs.sk a dajte nám vedieť o tomto probléme. Zásuvku sa následne pokúsime opraviť.<br><br>
+<br><br>Kontaktujte nás prosím buď pomocou formulára v spodnej časti stránky alebo pomocou emailu la-sd@upjs.sk a dajte nám vedieť o tomto probléme. Zásuvku sa následne pokúsime opraviť.<br><br>
           <b>Prečo sa neviem pripojiť na herný server ?</b>
 <br><br>Na hranie hier cez internet je potrebné povoliť sieťové porty. Stačí ak nám napíšete názov hry a zoznam portov, ktoré potrebujete povoliť. Porty potrebné pre jednotlivé hry nájdete na diskusných fórach alebo oficiálnych stránkach hier.<br><br>
           <b>Ako sa môžem prihlásiť do počítačovej siete ?</b>
@@ -92,7 +92,7 @@ sk: &DEFAULT_SK
           <b>Kde sa platí poplatok za pripojenie k počítačovej sieti ?</b>
 <br><br>Ubytovaní na A a B bloku – platia na vrátnici Medická 6<br>Ubytovaní na C a D bloku – platia na vrátnici Medická 4<br>Ubytovaní na Popradskej 66 – platia na vrátnici Popradská 66<br>Ubytovaní na Popradskej 76 – platia u ubytovacej referentky<br><br>
           <b>Kedy mi pôjde Internet ?</b>
-<br><br>Do 48 hodín od:<br>zaplatenia poplatku<br> a registrácie pomocou registračného formulára na reg.intrak.upjs.sk(Návod nájdete na stránke v časti pripojenie). (Pri ideálnych podmienkach (korektné načítanie ISIC karty na vrátnici pri platbe a zadanie korektných informácií pri registrácii) Vám internet začne fungovať približne do 30 minút.) V prípade WiFi eduroam v podstate hneď po úspešnom vytvorení prihlasovacích údajov na wifi.upjs.sk a ich zadaní na zariadení (Návod nájdete na stránke v časti pripojenie).
+<br><br>Do 48 hodín od:<br>zaplatenia poplatku<br> a registrácie pomocou registračného formulára na reg.intrak.upjs.sk(Návod nájdete na stránke v časti pripojenie). (Pri ideálnych podmienkach (korektné načítanie ISIC karty na vrátnici pri platbe a zadanie korektných informácií pri registrácii) Vám internet začne fungovať približne do 30 minút.) V prípade WiFi eduroam v podstate hneď po úspešnom vytvorení prihlasovacích údajov na wifi.upjs.sk a ich zadaní na zariadení (Návod nájdete na stránke v časti pripojenie).<br><br>
           <b>Nevidím WIFI sieť sdaj-registration. Ako sa mám registrovať do WIFI siete?</b>
 <br><br>Na internátoch už boli siete sdaj-registration a sdaj-students zrušené a nahradené WiFi sieťou eduroam. Návod na vytvorenie prihlasovacích údajov a pripojenie nájdete na stránke v časti pripojenie.<br><br>
           <b>Nefunguje mi online hra. Prečo? </b>
