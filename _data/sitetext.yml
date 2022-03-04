@@ -74,7 +74,53 @@ sk: &DEFAULT_SK
   about:
     title: "FAQ"
     text: "Často kladené otázky"
-    body: "<b>Ako môžem kontaktovať správcov počítačovej siete?</b> <br><br> prídete osobne v čase služieb (rozpis nájdete na našej webovej stránke) alebo nám zavoláte na číslo +42155234 1695 (len v čase služieb) alebo nám napíšete e-mail na la-sd@upjs.sk <br><br> <b>Bývame na trojposteľovej izbe, ale máme k dispozícii len dve internetové zásuvky ?</b> <br><br> Trojposteľové izby na internátoch ŠDaJ (okrem bloku A) majú len dve zásuvky. Je potrebné si zabezpečiť sieťový prepínač (switch). Ceny najlacnejších switchov sa pohybujú okolo 7-10 eur. Takéto zariadenie úplne postačuje a kúpite ho v akomkoľvek obchode s výpočtovou technikou. Získate k dispozícii najmenej 4 ďalšie zástrčky. Nezabudnite si kúpiť ďalší internetový kábel, cez ktorý pripojíte switch do internetovej zásuvky.<br><br><b>Čo mám robiť v prípade výmeny notebooku ?</b><br><br>Napíšte z nového notebooku report správu na stránke http://report.intrak.upjs.sk. Na základe toho upravíme Vašu registráciu a internet Vám „prehodíme“ na nový notebook.<br><br><b>Čo ak do môjho notebooku nemôžem pripojiť kábel ?</b><br><br>V takom prípade budete potrebovať externú sieťovú kartu. Ceny sa pohybujú od 10 – 15€ vyššie.<br><br><b>Čo mám robiť ak nám na izbe nefunguje internetová zásuvka ?</b><br><br>Napíšte nám email na la-sd@upjs.sk a v krátkom čase Vás kontaktujeme a dohodneme nasledovný postup. <br><br><b>Prečo sa neviem pripojiť na herný server ?</b><br><br>Na hranie hier cez internet je potrebné povoliť sieťové porty. Stačí ak nám napíšete názov hry a zoznam portov, ktoré potrebujete povoliť. Porty potrebné pre jednotlivé hry nájdete na diskusných fórach alebo oficiálnych stránkach hier.<br><br><b>Ako sa môžem prihlásiť do počítačovej siete ?</b><br><br>Pre prihlásenie do počítačovej siete je potrebné splniť 2 podmienky:<br>registrácia cez registračný formulár – reg.intrak.upjs.sk <br> zaplatenie poplatku za pripojenie – 10 eur/osoba/semester<br><br><b>Kde sa platí poplatok za pripojenie k počítačovej sieti ?</b><br><br>Ubytovaní na A a B bloku – platia na vrátnici Medická 6<br>Ubytovaní na C a D bloku – platia na vrátnici Medická 4<br>Ubytovaní na Popradskej 66 – platia na vrátnici Popradská 66<br>Ubytovaní na Popradskej 76 – platia u ubytovacej referentky<br><br><b>Kedy mi pôjde Internet ?</b><br><br>Do 48 hodín od:<br>zaplatenia poplatku<br>registrácie pomocou registračného formulára na reg.intrak.upjs.sk"
+    body: "<b>Ako môžem kontaktovať správcov počítačovej siete?</b>
+<br>Máte 4 možnosti:<br> prídete osobne v čase služieb (rozpis nájdete na našej webovej stránke)zavoláte na číslo +42155234 1695 (len v čase služieb na Medickej 6) napíšete e-mail na la-sd (a) upjs.sk formulár v spodnej časti stránky <br><br> 
+          <b>Bývame na trojposteľovej izbe, ale máme k dispozícii len dve internetové zásuvky ?</b> 
+<br><br> Žiaľ, nie všetky časti internátov prešli rekonštrukciou a nemajú na trojposteľových izbách 3 zásuvky. V takomto prípade je potrebné si zabezpečiť sieťový prepínač (switch). Ceny najlacnejších switchov sa pohybujú okolo 7-10 eur. Takéto zariadenie úplne postačuje a kúpite ho v akomkoľvek obchode s výpočtovou technikou. Získate k dispozícii najmenej 4 ďalšie zástrčky. Nezabudnite si kúpiť ďalší internetový kábel, cez ktorý pripojíte switch do internetovej zásuvky. Neváhajte nás kontaktovať, radi Vám pomôžeme pri výbere vhodného modelu.<br><br>
+          <b>Čo mám robiť v prípade výmeny notebooku ?</b>
+<br><br>V prípade pripojenia do WiFi siete eduroam, stačí ak sa prihlásite do siete s Vašimi
+ prihlasovacími údajmi.V prípade káblovej siete sa opätovne registrujte podľa návodu na stránke v časti pripojenie a následne nás kontaktujte buď pomocou formulára v spodnej časti stránky alebo pomocou emailu la-sd (a) upjs.sk a dajte nám vedieť o novej registrácií aby sme zmazali starú.<br><br>
+          <b>Čo ak do môjho notebooku nemôžem pripojiť kábel ?</b>
+<br><br>Ak notebook nemá ethernetový port alebo je tento port poškodený budete potrebovať externú USB sieťovú kartu. Ceny sa pohybujú od 10€. Neváhajte nás kontaktovať, radi Vám pomôžeme pri výbere vhodného modelu. Alebo si vystačíte s pripojením do WiFi siete eduroam.<br><br>
+          <b>Čo mám robiť ak nám na izbe nefunguje internetová zásuvka ?</b>
+<br><br>Kontaktujte nás prosím buď pomocou formulára v spodnej časti stránky alebo pomocou emailu la-sd (a) upjs.sk a dajte nám vedieť o tomto probléme. Zásuvku sa následne pokúsime opraviť.<br><br>
+          <b>Prečo sa neviem pripojiť na herný server ?</b>
+<br><br>Na hranie hier cez internet je potrebné povoliť sieťové porty. Stačí ak nám napíšete názov hry a zoznam portov, ktoré potrebujete povoliť. Porty potrebné pre jednotlivé hry nájdete na diskusných fórach alebo oficiálnych stránkach hier.<br><br>
+          <b>Ako sa môžem prihlásiť do počítačovej siete ?</b>
+<br><br>Pre prihlásenie do počítačovej siete je potrebné splniť 2 podmienky:<br>registrácia cez registračný formulár – reg.intrak.upjs.sk <br> zaplatenie poplatku za pripojenie – 10 eur/osoba/semester<br><br>
+          <b>Kde sa platí poplatok za pripojenie k počítačovej sieti ?</b>
+<br><br>Ubytovaní na A a B bloku – platia na vrátnici Medická 6<br>Ubytovaní na C a D bloku – platia na vrátnici Medická 4<br>Ubytovaní na Popradskej 66 – platia na vrátnici Popradská 66<br>Ubytovaní na Popradskej 76 – platia u ubytovacej referentky<br><br>
+          <b>Kedy mi pôjde Internet ?</b>
+<br><br>Do 48 hodín od:<br>zaplatenia poplatku<br> a registrácie pomocou registračného formulára na reg.intrak.upjs.sk(Návod nájdete na stránke v časti pripojenie). (Pri ideálnych podmienkach (korektné načítanie ISIC karty na vrátnici pri platbe a zadanie korektných informácií pri registrácii) Vám internet začne fungovať približne do 30 minút.) V prípade WiFi eduroam v podstate hneď po úspešnom vytvorení prihlasovacích údajov na wifi.upjs.sk a ich zadaní na zariadení (Návod nájdete na stránke v časti pripojenie).
+          <b>Nevidím WIFI sieť sdaj-registration. Ako sa mám registrovať do WIFI siete?</b>
+<br><br>Na internátoch už boli siete sdaj-registration a sdaj-students zrušené a nahradené WiFi sieťou eduroam. Návod na vytvorenie prihlasovacích údajov a pripojenie nájdete na stránke v časti pripojenie.<br><br>
+          <b>Nefunguje mi online hra. Prečo? </b>
+<br><br>Štandardne je na internáte z bezpečnostných dôvodov väčšina internetovej komunikácie blokovaná tak, aby fungovali len základné služby (web, email, videohovory, ...). Pre povolenie nejakej internetovej hry nás kontaktujte emailom alebo formulárom a uveďte názov hry, prípadne platformu, cez ktorú danú hru spúšťate.<br><br>
+          <b>Zaregistroval som sa do káblovej siete na reg.intrak.upjs.sk a internet mi nefunguje. Čo mám urobiť? </b>
+<br><br>Ak už prešlo od registrácie a zaplatenia poplatku viac ako 48 hodín, kontaktujte nás.<br><br>
+          <b>Zaregistroval som sa na reg.intrak.upjs.sk ale neprišli mi prihlasovacie údaje do WIFI. Kde je problém?</b>
+<br><br>Na stránke reg.intrak.upjs.sk sa už registrujete len pre káblovú sieť. Ak chcete používať bezdrôtovú WiFi sieť, môžete používať Eduroam. Návod na vytvorenie prihlasovacích údajov a pripojenie nájdete na stránke v časti pripojenie.<br><br>
+          <b>Neviem sa registrovať na stránke wifi.upjs.sk, lebo neviem heslo do študentského emailu. Dá sa niekde obnoviť? </b>
+<br><br>Musíte kontaktovať správcu univerzitného mailu na Vašej fakulte. Kontakt nájdete v AIS2 v časti Kontakty a Správa univerzitných e-mailov (Office 365).<br><br>
+          <b>WIFI veľmi často vypadáva, je pomalé, online prednášky sú nepozerateľne, ... Nedá sa s tým niečo urobiť? </b>
+<br><br>Žiaľ aktuálne pokrytie WiFi vysielačov na internáte nie je dostatočné. Jeho rozšírenie je plánované, no potrvá nejaký čas. Ďalším problémom sú ľudia, ktorí si vytvárajú vlastné WiFi hotspoty na zariadeniach, čím zhoršujú kvalitu signálu WiFi siete eduroam. Pre stabilné a rýchle internetové pripojenie (pre online výučbu, konzumáciu HD obsahu, hranie hier, sťahovanie väčších súborov, ...) odporúčame použiť káblové pripojenie. <br><br>
+          <b>Prečo mám platiť za internet, keď je tu eduroam?</b>
+<br><br>Poplatok ako taký nikdy nebol poplatkom za internet, ale servisným poplatkom. Za daný poplatok, obnovujeme zastaralú infraštruktúru, vylepšujeme existujúce pripojenie, rekonštruujeme káblovú sieť, zriadili sme WiFi sieť a podobne. <br><br>
+          <b>Prečo sa nemôžem dostať na registračný formulár ? </b>
+<br><br>Dôvodov môže byť viacero. Odporúčame postupovať podľa pokynov v návode, ktorý nájdete na stránke v časti pripojenie. Ak sa aj tak neviete registrovať, neváhajte nás kontaktovať. <br><br>
+          <b>Môžem mať  WiFi pripojenie ? </b>
+<br><br>Samozrejme. Na internáte je zriadené WiFi pripojenie eduroam. Návod na pripojenie nájdete na stránke v časti pripojenie. Nezabudnite prosím uhradiť servisný poplatok za pripojenie k internetu.<br><br>
+          <b>Kde si môžem zabezpečiť internetový kábel ? </b>
+<br><br>Kúpite ho v akomkoľvek obchode s výpočtovou technikou. Žiadajte internetový (sieťový alebo FTP) kábel. Dĺžku si musíte zvoliť podľa toho, kde chcete mat umiestnený počítač/notebook. Ceny sa pohybujú od 2€, podľa dĺžky kábla.<br><br>
+          <b>Môžem sťahovať torrenty ?  </b>
+<br><br>Sťahovanie torrentov Vám pravdepodobne nebude fungovať, lebo je blokované. Vo všeobecnosti odporúčame neporušovať zákon.<br><br>
+          <b>Aký je servisný poplatok za pripojenie k počítačovej sieti ? </b>
+<br><br>10 eur za každú osobu na semester. Ak má osoba viac zariadení (počítač pre káblové pripojenie, notebook na WiFi eduroam a mobil na Wifi eduroam), platí len 1 poplatok.<br><br>
+          <b>Na čo je mi potvrdenie o zaplatení poplatku?</b>
+<br><br>Toto potvrdenie si uchovajte v prípade problémov s identifikovaním Vašich platieb (preklepy a pod.) respektíve pre urýchlenie povolenie káblového pripojenia.<br><br>
+          <b>Ak bývam na trojposteľovej izbe, a obaja spolubývajúci zaplatili za pripojenie k Internetu, je potrebné, aby som zaplatil aj ja?</b>
+<br><br>Poplatok 10 eur/semester sa viaže na každú osobu. Bez ohľadu na to, či ide o dvojposteľovú alebo trojposteľovú izbu.<br><br>"
     section: about
 
   clients:
