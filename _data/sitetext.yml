@@ -187,7 +187,7 @@ en: &DEFAULT_EN
   portafolio:
     title: "Connection into Internet"
     text: "How to create credentials for Eduroam? How to connect to the ŠDaJ network?"
-    section: portfolio
+    section: portafolio
     closebutton: "Close"
 
   timeline:
@@ -248,7 +248,7 @@ en: &DEFAULT_EN
   contact:
     title: "Contact Us"
     text: "or come to us at service time."
-    section: contacto
+    section: contact
 
 
   footer:
