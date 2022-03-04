@@ -245,7 +245,7 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  contact:
+  contacto:
     title: "Contact Us"
     text: "or come to us at service time."
     section: contacto
