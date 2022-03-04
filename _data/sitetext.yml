@@ -187,7 +187,7 @@ en: &DEFAULT_EN
   portafolio:
     title: "Connection into Internet"
     text: "How to create credentials for Eduroam? How to connect to the ŠDaJ network?"
-    section: portafolio
+    section: portfolio
     closebutton: "Close"
 
   timeline:
