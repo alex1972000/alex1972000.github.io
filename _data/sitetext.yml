@@ -184,10 +184,10 @@ en: &DEFAULT_EN
         desc: "<b>Because of situation about Covid right now we are working only online. If you have any problem you can contact us on la-sd@upjs.sk</b>"
         icon: far fa-hand-paper
 
-  portafolio:
+  portfolio:
     title: "Connection into Internet"
     text: "How to create credentials for Eduroam? How to connect to the ŠDaJ network?"
-    section: portafolio
+    section: portfolio
     closebutton: "Close"
 
   timeline:
