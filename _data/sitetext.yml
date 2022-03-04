@@ -145,16 +145,6 @@ sk: &DEFAULT_SK
     title: "Napíš nám"
     text: "alebo nás naštív v čase služieb"
     section: contact
-    name: "Meno*"
-    name-validation: "Zadajte Vaše meno prosím."
-    email: "Email*"
-    email-validation: "Zadajte Vašu emailovu adresu prosím."
-    phone: "Číslo izby"
-    phone-validation: "Zadajte Vaše čislo izby prosím."
-    message: "Text*"
-    message-validation: "Zadajte text správy prosím."
-    subject: "Contact Form Submission"
-    submit: "Poslať email"
 
   footer:
     legal: "Privacy Policy"
@@ -259,16 +249,7 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: "or come to us at service time."
     section: contacto
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Number of room*"
-    phone-validation: "Please enter your number of room."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+
 
   footer:
     legal: "Privacy Policy"
