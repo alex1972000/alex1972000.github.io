@@ -123,23 +123,7 @@ sk: &DEFAULT_SK
 <br><br>Poplatok 10 eur/semester sa viaže na každú osobu. Bez ohľadu na to, či ide o dvojposteľovú alebo trojposteľovú izbu.<br><br>"
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  
 
   contact:
     title: "Napíš nám"
@@ -277,24 +261,6 @@ In the case of Wi-Fi eduroam, basically immediately after successfully creating 
           <b>If I live in a triple-bed room and both roommates have paid for an Internet connection, do I need to pay?</b>
 <br><br>The fee of 10 euros / semester is tied to each person. Whether it is a double-bed or a triple-bed room.<br><br>"
     section: nosotros
-
-  clients:
-    section: clientes
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
 
   contact:
     title: "Contact Us"
