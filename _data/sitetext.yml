@@ -224,7 +224,58 @@ en: &DEFAULT_EN
   about:
     title: "FAQ"
     text: "Frequently Asked Questions"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "<b>How can I contact computer network administrators?</b>
+<br>You have 3 options::<br> You can come in person at the time of the services (you can find the schedule on our website). You can call the number +42155234 1695 (only at the time of the services at Medická 6) or write an e-mail to la-sd@upjs.sk (form is at the bottom of the page).<br><br> 
+          <b>We live in a triple-bed room, but we only have two internet sockets?</b> 
+<br><br> Unfortunately, not all parts of the dormitories have been renovated and do not have 3 internet sockets in the triple-bed rooms. In this case, it is necessary to secure the network switch. The prices of the switches are around 7-10 euros. This switch is enough, and you can buy it at the computer shop. You'll have at least 4 more sockets available. Don't forget to buy another internet cable through which you connect the switch to the internet network. Do not hesitate to contact us, we will be happy to help you choose a suitable model.<br><br>
+          <b>What should I do if I change my laptop?</b>
+<br><br>In case of connection to the Wi-Fi network eduroam, all you have to do is log in to the network with your login details. In case of cable network, re-register according to the instructions on the page in the connection section and then contact us by email la-sd@upjs.sk and let us know about the new registration so that we can delete the old one.<br><br>
+          <b>What if I can't plug a cable into my laptop?</b>
+<br><br>If your laptop does not have an Ethernet port or this port is damaged, you will need an external USB network adapter. Prices are around 10 euros. Do not hesitate to contact us, we will be happy to help you choose a suitable model. Or all you have to do is connect to the eduroam Wi-Fi network<br><br>
+          <b>What should I do if our internet socket does not work?</b>
+<br><br>Please contact us either using the form at the bottom of the page or by email la-sd@upjs.sk and let us know about this issue. We will then try to repair the socket.<br><br>
+          <b>Why can't I connect to the game server?</b>
+<br><br>You have to have enabled network ports to play games over the Internet. All you have to do is write us the name of the game and the list of ports you need to allow. You can find the ports needed for each game on the discussion forums or the official games websites.<br><br>
+          <b>How can I log in to a computer network?</b>
+<br><br>To log in to a computer network, it is necessary to meet 2 conditions:
+registration via registration form - reg.intrak.upjs.sk
+payment of connection fee - 10 euros / person / semester<br><br>
+          <b>Where do I pay for connecting to a computer network?</b>
+<br><br>Accommodation at block A and B - valid at the Medická 6 gatehouse
+Accommodation at blocks C and D - valid at the Medická 4 gatehouse
+Accommodation at Popradská 66 - valid at the gate Popradská 66
+Accommodation on Popradská 76 - valid at the accommodation clerk<br><br>
+          <b>When will the Internet start to work?</b>
+<br><br>Within 48 hours from:<br>payment of the fee <br> and registration using the registration form at reg.intrak.upjs.sk. Instructions can be found on the page in the connection section. Under ideal conditions (which are correct loading of the ISIC card at the gatehouse during payment and entering correct information during registration), the Internet will start working within approximately 30 minutes. 
+In the case of Wi-Fi eduroam, basically immediately after successfully creating login details on wifi.upjs.sk and their input on the device (Instructions can be found on the page in the connection section).<br><br>
+          <b>I don't see Wi-Fi network sdaj-registration. How do I register on a Wi-Fi network?</b>
+<br><br>At the boarding schools, the sdaj-registration and sdaj-students networks have already been abolished and replaced by the Wi-Fi network eduroam. Instructions for creating a login and connecting can be found on the page in the connection section.<br><br>
+          <b>My online game does not work. Why?</b>
+<br><br>By default, for security reasons, most Internet communication is blocked at the boarding school so that only basic services (web, email, video calls,…) work. To allow an internet game, contact us by email or form and state the name of the game or the platform through which you run the game. <br><br>
+          <b>I registered on the cable network at reg.intrak.upjs.sk and the internet does not work for me. What should I do?</b>
+<br><br>If it has been more than 48 hours since registration and payment, please contact us.<br><br>
+          <b>I registered on reg.intrak.upjs.sk but I did not receive login details to Wi-Fi. Where is the problem?</b>
+<br><br>On the website reg.intrak.upjs.sk you only register for the cable network. If you want to use a wireless Wi-Fi network, you can use Eduroam. Instructions for creating a login and connecting can be found on the page in the connection section.<br><br>
+          <b>I can't register on wifi.upjs.sk because I don't know the password for the student email. Is it possible to recover the password?</b>
+<br><br>You must contact the university email administrator for your faculty. You can find the contact in AIS2 in the Contacts and University e-mail management section (Office 365).<br><br>
+          <b>Wi-Fi very often drops out, it's slow, online lectures are unseen, … Is there anything you can do about it?</b>
+<br><br>Unfortunately, the current coverage of Wi-Fi transmitters on the boarding school is not sufficient. Its expansion is planned, but will take some time. Another problem is people who create their own Wi-Fi hotspots on devices, which worsens the quality of the eduroam Wi-Fi signal. For a stable and fast internet connection (for online learning, HD content consumption, playing games, downloading larger files, …) we recommend using a cable connection. <br><br>
+          <b>Why should I pay for the cable internet when there is Eduroam?</b>
+<br><br>The fee as such was never an internet fee, but a service fee. For a fee, we are renewing outdated infrastructure, improving existing connections, reconstructing cable networks, setting up Wi-Fi networks etc.<br><br>
+          <b>Why can't I access the registration form?</b>
+<br><br>There can be several reasons. We recommend that you follow the instructions on the page in the connection section. If you still can't register, don't hesitate to contact us.<br><br>
+          <b>Can I have a Wi-Fi connection?</b>
+<br><br>Of course. The Eduroam Wi-Fi connection is set up at the boarding school. Instructions for connection can be found on the page in the connection section. Please do not forget to pay the service fee for the internet connection.<br><br>
+          <b>Where can I secure an internet cable?</b>
+<br><br>You can buy it at any computer store. Request an Internet (network or FTP) cable. You have to choose the length according to where you want the computer / notebook to be located. Prices range from 2 €, depending on the length of the cable.<br><br>
+          <b>Can I download torrents?</b>
+<br><br>Downloading torrents may not work because it is blocked. In general, we recommend not breaking the law.<br><br>
+          <b>What is the service fee for connecting to a computer network?</b>
+<br><br>10 euros per person per semester. If a person has more than one device (computer for cable connection, laptop for Wi-Fi eduroam and mobile phone for Wi-Fi eduroam), he only pays one fee.<br><br>
+          <b>What is my fee receipt for?</b>
+<br><br>Keep this confirmation in case of problems with identifying your payments (typos, etc.) or to speed up the connection to cable network.<br><br>
+          <b>If I live in a triple-bed room and both roommates have paid for an Internet connection, do I need to pay?</b>
+<br><br>The fee of 10 euros / semester is tied to each person. Whether it is a double-bed or a triple-bed room.<br><br>"
     section: nosotros
 
   clients:
